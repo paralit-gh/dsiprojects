@@ -43,7 +43,7 @@ Datasets for the SAT and ACT from 2017 and 2018 were used for this analysis. The
 |**sat17_readwrite**|*int*|SAT 2017|The state mean score for the SAT Evidence-Based Reading and Writing section in 2017 (from 200 to 800). |
 |**sat17_math**|*int*|SAT 2017|The state mean score for the SAT Math section in 2017 (from 200 to 800).|
 |**sat17_total**|*int*|SAT 2017|The state mean total score for the SAT test in 2017 (from 400 to 1600).|
-<br>
+|<br>|
 |**sat18_participation**|*int*|SAT 2018|The SAT participation rate for the state in 2018 (in %).|
 |**sat18_readwrite**|*int*|SAT 2018|The state mean score for the SAT Evidence-Based Reading and Writing section in 2018 (from 200 to 800). |
 |**sat18_math**|*int*|SAT 2018|The state mean score for the SAT Math section in 2018 (from 200 to 800).|
