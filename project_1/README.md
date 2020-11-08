@@ -3,10 +3,11 @@
  - [Problem Statement](#Problem-Statement)
  - [Executive Summary](#Executive-Summary)
  - [Data Dictionary](#Data-Dictionary)
- - [Conclusions & Recommendations](#Conclusions-&-Recommendations)
+ - [Conclusions & Recommendations](#Conclusions-&amp;-Recommendations)
  - [References](#References)
  - [Data Sources](#Data-Sources)
 
+---
 ## Problem Statement
 
 The new format for the SAT was released in March 2016. The ACT, which is the alternative standardized test used for college admissions, has been steadily gaining popularity as the test of choice amongst students in recent years. We are keen to investigate the changes in statewide SAT test participation rates and the factors influencing them, and to identify recommendations that could be taken by the College Board to boost SAT participation rates in the years ahead.
@@ -64,7 +65,7 @@ Datasets for the SAT and ACT from 2017 and 2018 were used for this analysis. The
 |**act18_composite**|*float*|ACT 2018|The state mean average score of all 4 sections for the ACT in 2018 (from 1 to 36).|
 
 ---
-## Conclusions & Recommendations 
+## Conclusions &amp; Recommendations 
 
 - Given that students typically take only one test or the other, there is little incentive in targetting states that already see extremely high participation rates in the ACT, unless there are contracts that are due to expire soon.
 - One possible state where SAT participation could be encouraged is **West Virginia**. West Virginia saw an increase in SAT participation rate from 14 to 28%, while the ACT participation rate fell from 69% to 65%. At the moment, neither SAT nor ACT testing is made mandatory in West Virginia.
