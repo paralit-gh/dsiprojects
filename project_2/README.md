@@ -54,7 +54,7 @@ The features with the greatest magnitude of coefficients for our finalized Lasso
 - `HouseAge`
 - `RemodYears`
 
-The final RMSE of $25317.1156$ on the test set outperforms the baseline score of $79511.73$ by a fair amount.
+The final RMSE of 25317.1156 on the test set outperforms the baseline score of 79511.73 by a fair amount.
 
 Linear regression is one of the more simplistic supervised machine learning algorithms. However, despite the multitude of other machine learning algorithms that may offer better predictive accuracy, linear regression has its strong merits in helping us address the problem statement as well, as it provides greater interpretability of our resultant predictive features. This is due to the parameters that linear regression yields - based on the relative magnitude and direction of the coefficients, we can identify the strongest predictors in our model, as well as weigh their individual impacts on the sale price.
 
@@ -93,7 +93,7 @@ It is unlikely that the model will generalize well to other cities, considering 
 
 Through a data science methodology comprising exploratory data analysis, data cleaning, feature engineering, feature selection, modelling and model iteration, we have created a  **Lasso Regression model**  that is able to predict the price of a home at sale, allowing homeowners and homeseekers alike in Ames, Iowa to make informed decisions on an appropriate valuation for their homes. They are also able to better understand some of the features that would add or decrease value to a home, and carry out practicable measures to enhance the value of their houses. Real estate agents can also make use of the model to better understand the factors that influence real estate prices.
 
-The eventual model with 30 features obtained an RMSE value of $25317.1156$  on our test set.
+The eventual model with 30 features obtained an RMSE value of 25317.1156 on our test set.
 
 The two most significant predictors are the  **total living area**  as well as the  **overall quality**, which both increase the overall value of the house.
 
