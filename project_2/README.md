@@ -49,7 +49,6 @@ The features with the greatest magnitude of coefficients for our finalized Lasso
 **Most negatively correlated features**
 - `MSSubClass_160`
 - `MSSubClass_120`
-- `Exterior1st_BrkFace`
 - `MasVnrType_BrkFace`
 - `HouseAge`
 - `RemodYears`
