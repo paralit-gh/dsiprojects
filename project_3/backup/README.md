@@ -1,0 +1,1 @@
+Contains the backup pcgamingtechsupport.csv and techsupport.csv files, as scraped on 30 Nov 2020.
