@@ -7,11 +7,11 @@ This repository showcases the projects that were done as part of my Data Science
 - Translating insights from data into solving the business problem
 ---
 
- - [Project 1: SAT Score Analysis](#Project-1:-SAT-Score-Analysis)
- - [Project 2: Ames Housing Price Prediction Model](#Project-2:-Ames-Housing-Price-Prediction-Model)
- - [Project 3: r/techsupport and r/pctechsupport subreddit classification](#Project-3:-r/techsupport-and-r/pctechsupport-subreddit-classification)
- - [Project 4: West Nile Virus Prediction in the City of Chicago](#Project-4:-West-Nile-Virus-Prediction-in-the-City-of-Chicago)
- - [Capstone: Sentiment Analysis and Topic Modelling of Steam game reviews](#Capstone:-Sentiment-Analysis-and-Topic-Modelling-of-Steam-game-reviews)
+ - [Project 1: SAT Score Analysis](https://github.com/paralit-gh/dsiprojects#project-1-sat-score-analysis)
+ - [Project 2: Ames Housing Price Prediction Model](https://github.com/paralit-gh/dsiprojects#project-2-ames-housing-price-prediction-model)
+ - [Project 3: r/techsupport and r/pctechsupport subreddit classification](https://github.com/paralit-gh/dsiprojects#project-3-rtechsupport-and-rpctechsupport-subreddit-classification)
+ - [Project 4: West Nile Virus Prediction in the City of Chicago](https://github.com/paralit-gh/dsiprojects#project-4-west-nile-virus-prediction-in-the-city-of-chicago)
+ - [Capstone: Sentiment Analysis and Topic Modelling of Steam game reviews](https://github.com/paralit-gh/dsiprojects#capstone-sentiment-analysis-and-topic-modelling-of-steam-game-reviews)
 
 ---
 ## Project 1: SAT Score Analysis
